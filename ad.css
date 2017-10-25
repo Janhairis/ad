@@ -9,3 +9,6 @@ h2 {
     color: #3F0612;
     background-color: rgba(170, 167, 167, 0.89)
 }
+h2 p{
+    text-align: center
+}
